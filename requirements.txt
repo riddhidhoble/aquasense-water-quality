@@ -1,0 +1,7 @@
+streamlit
+flask
+pandas
+joblib
+scikit-learn
+requests
+gunicorn
